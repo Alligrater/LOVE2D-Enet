@@ -1,4 +1,9 @@
 # LOVE2D-Enet
-a project for making server/client chat using love2d and enet module
+a sample project for making server/client chat using love2d and enet module
 
-Should run on love 11.0+, but its mainly tested on 11.3
+## Notice
+ - Font is not included! Please include your own font
+ - Code is tested in Love2D 11.3, compatibility may not be guaranteed for older versions
+ 
+## Known Issues
+ - Server side unicode display is broken.
